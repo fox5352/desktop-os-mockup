@@ -19,7 +19,7 @@ This project uses plain JavaScript (no build tools) while leveraging built-in we
 1.  Clone the repository:
 
     ```bash
-    git clone [https://github.com/](https://github.com/)<your-username>/desktop-os-mockup.git
+    git clone https://github.com/fox5352/desktop-os-mockup.git
     ```
 
 2.  Open `index.html` in your browser.
